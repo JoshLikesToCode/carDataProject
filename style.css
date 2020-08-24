@@ -1,0 +1,77 @@
+* {
+	margin: 0;
+	padding 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0,0,0,0.7)), url(/finalProject/images/header.jpeg);
+
+	background-color: #555;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+.image {
+	height: 960px;
+	width: 500px;	
+}
+
+
+
+.mainHeader {
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: #C0C0C0;
+	padding: 32px;
+}
+
+.main_menu {
+	padding: 5px 0 5px 0;
+	text-align: center;
+	line-height: 32px;
+	background-color: black;
+}
+
+ul.main_menu {
+	margin-top: 15px;
+}
+
+.main_menu li {
+	display: inline;
+	padding: 0 10px 0 10px;
+	font-size: 16px;
+}
+
+.main_menu a {
+	text-decoration: none;
+	color: #fff;
+	padding: 8px;
+	font-variant: small-caps;
+}
+
+.main_menu a:hover {
+	color: black;
+}
+
+
+header {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0,0,0,0.7)), url(/finalProject/images/header.jpeg);
+	background-color: #555;
+	height: 150px;
+	padding 4px;
+}
+
+header h1 {
+	text-transform: uppercase;
+	text-align: center;
+	color: #f0f0f5;
+	line-height: 50px;
+	font-family: "Times New Roman", Times, serif;
+}
