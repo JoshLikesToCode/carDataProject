@@ -1,7 +1,7 @@
-# carDataProject
 
-	What I did for this project was create an app that will collect information from our DataScript.sh, feed this information into various data tables (one for sessions and another for actual hard data) , display these data tables on a simple to use GUI (the website), and add filters so the data can be easily browsed through. 
-	In this write up, I’m including the Setup directions and at the very end of the write up, I will include the necessary screen shots with brief descriptions on them.
+What I did for this project was create an app that will collect information from our DataScript.sh, feed this information into various data tables (one for sessions and another for actual hard data) , display these data tables on a simple to use GUI (the website), and add filters so the data can be easily browsed through. 
+
+In this write up, I’m including the Setup directions and at the very end of the write up, I will include the necessary screen shots with brief descriptions on them.
 
 Setup:
 	For the setup please launch the data files in the VM box running on 960x500 resolution. The add-ons I used for this project include:
